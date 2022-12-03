@@ -1,0 +1,17 @@
+.header__title{
+position: absolute;
+width: 1440px;
+height: 261px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #FFFFFF;
+}
